@@ -55,7 +55,7 @@ Maybe:
 - Kliyan  yo ap kapab pran yon abonman ka yon biznis yo vle
 
 
-Design:
+Design:<br>
 <img src="Prototype page 1.png" width=200><br>
 <img src="Prototype page 2.png" width=200><br>
 <img src="Prototype page 3.png" width=200><br>

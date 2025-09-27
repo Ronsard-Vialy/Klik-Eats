@@ -1,7 +1,7 @@
 "Klik Eats" 
 Group Members:<br>
-Ronsard Vialy DURETT
-Angeline TUNÉUS
+Ronsard Vialy DURETT<br>
+Angeline TUNÉUS<br>
 Dave
 
 App Ideas:
@@ -56,7 +56,7 @@ Maybe:
 
 
 Design:
-<img src="Prototype page 1" width=200><br>
-<img src="Prototype page 2" width=200><br>
-<img src="Prototype page 3" width=200><br>
-<img src="Prototype page 4" width=200><br>
+<img src="Prototype page 1.png" width=200><br>
+<img src="Prototype page 2.png" width=200><br>
+<img src="Prototype page 3.png" width=200><br>
+<img src="Prototype page 4.png" width=200><br>

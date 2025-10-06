@@ -64,8 +64,8 @@ Design:<br>
 
 
 Design Figma:
--Côté Client: 
+- Côté Client: <br>
 <img src="Klik Eats gif Client.gif" width=200><br>
--Côté business: 
+- Côté business:<br>
 <img src="Klik Eats gif Business .gif" width=200><br>
 

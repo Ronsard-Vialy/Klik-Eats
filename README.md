@@ -55,8 +55,22 @@ Maybe:
 - Kliyan  yo ap kapab pran yon abonman ka yon biznis yo vle
 
 
+<<<<<<< HEAD
 Design:<br>
 <img src="Prototype page 1.png" width=200><br>
 <img src="Prototype page 2.png" width=200><br>
 <img src="Prototype page 3.png" width=200><br>
 <img src="Prototype page 4.png" width=200><br>
+=======
+Design:
+<img src="Prototype page 1" width=200><br>
+<img src="Prototype page 2" width=200><br>
+<img src="Prototype page 3" width=200><br>
+<img src="Prototype page 4" width=200><br>
+
+Design Figma:
+-Côté Client: 
+<img src="Klik Eats gif Client.gif" width=200><br>
+-Côté business: 
+<img src="Klik Eats gif Business .gif" width=200><br>
+>>>>>>> 58fd3db (Figma gif added)
